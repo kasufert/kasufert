@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kasufert
 - 👀 I’m interested in ... gaming
 - 🌱 I’m currently learning ... c#, c++, unity
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... DM
+- 📫 How to reach me ... Phone, email, text
 
 <!---
 kasufert/kasufert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
